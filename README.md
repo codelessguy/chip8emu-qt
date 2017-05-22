@@ -1,0 +1,1 @@
+Built with Qt 4.8
